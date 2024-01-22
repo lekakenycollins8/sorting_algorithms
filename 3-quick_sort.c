@@ -21,7 +21,7 @@ void swap(int *a, int *b)
  * @low: lower bound(first element) of the array
  * @high: upper bound(last element) of the array
  * @size: size of the array
- * 
+ *
  * Return: partition index
  */
 
